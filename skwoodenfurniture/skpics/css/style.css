@@ -1,0 +1,45 @@
+/* css document */
+.bg-black{
+  background-color:rgb(221, 44, 60);
+}
+.carousel-caption{
+  top:200px;
+}
+.bg-orange{
+  background-color:rgb(7, 62, 85);
+  color:aliceblue;
+  font-weight: 600;
+  text-align: center;
+}
+.m-right{
+  border: 2px solild rgb(7, 62, 85);
+  border-right: 2px solid white;
+}
+
+.underline{
+  width:100px;
+  height:2px;
+  background-color:rgb(7, 62, 85);
+}
+.bg-light-gray{
+  background-color:rgbA(111,111,111,0.09);
+}
+.media img{
+  max-width: 180px;
+  height:130px;
+  }
+.underline-black{
+  width:100px;
+  height: 20x;
+  background-color:green;
+}
+.row .underline-green{
+  background-color: rgb(57, 70, 231);
+}
+.card-body{
+  text-align: center;
+  }
+.blog .media img{
+  max-width: 200px;
+  height: auto;
+}

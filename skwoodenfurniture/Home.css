@@ -1,0 +1,35 @@
+
+.mainText{
+  text-align: center;
+  font-family: "Kaushan Script";
+  color: white;
+  font-size: 50px;
+}
+.navBar{
+  list-style-type: none;
+}
+.navBar >.navItem{
+    float:right;
+    display: inline-block;
+    padding: 0.5% 1%;
+    font-family: arial;
+
+}
+.navBar>.navItem> a {
+      color:#737373;
+      text-decoration:none;
+}
+.navBar >.navItem> a:hover{
+  color:white;
+  cursor: pointer;
+  -webkit-transition:ease-in-out 0.2s;
+}
+.media img{
+  max-width: 130px;
+  height: auto;
+  }
+.underline-green{
+  width:70px;
+  height: 20x;
+  background-color:lawngreen;
+}
